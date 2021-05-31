@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BlazingShop\BlazingShop\Shared\obj\Debug\net5.0\BlazingShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BlazingShop\BlazingShop\Shared\obj\Debug\net5.0\BlazingShop.Shared.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BlazingShop\BlazingShop\Shared\obj\Debug\net5.0\BlazingShop.Shared.AssemblyInfo.cs
+C:\Users\User\source\repos\BlazingShop\BlazingShop\Shared\obj\Debug\net5.0\BlazingShop.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BlazingShop\BlazingShop\Shared\bin\Debug\net5.0\BlazingShop.Shared.deps.json
+C:\Users\User\source\repos\BlazingShop\BlazingShop\Shared\bin\Debug\net5.0\BlazingShop.Shared.dll
+C:\Users\User\source\repos\BlazingShop\BlazingShop\Shared\bin\Debug\net5.0\ref\BlazingShop.Shared.dll
+C:\Users\User\source\repos\BlazingShop\BlazingShop\Shared\bin\Debug\net5.0\BlazingShop.Shared.pdb
+C:\Users\User\source\repos\BlazingShop\BlazingShop\Shared\obj\Debug\net5.0\BlazingShop.Shared.dll
+C:\Users\User\source\repos\BlazingShop\BlazingShop\Shared\obj\Debug\net5.0\ref\BlazingShop.Shared.dll
+C:\Users\User\source\repos\BlazingShop\BlazingShop\Shared\obj\Debug\net5.0\BlazingShop.Shared.pdb
